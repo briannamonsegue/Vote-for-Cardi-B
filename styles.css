@@ -1,15 +1,25 @@
 .img{
     width:100px;
     height:200px;}
-    .imga{width:150px;
-    height:200px;}
+    .imga{
+    width:150px;
+    height:200px;
+}
 .pics{
     display:flex;
     justify-content:space-around;
     border:dotted red;
-    }
-    .top{
-        background-color:yellow;
-        border:solid black 6px;
-    }
-    p{font-size:30px;}
+}
+    
+.top{
+    background-color:yellow;
+    border:solid black 6px;
+}
+ p{
+     font-size:30px;
+}
+.two{
+    font-size:50px;
+    display:flex;
+    justify-content:center;
+}
