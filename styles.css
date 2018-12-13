@@ -9,21 +9,50 @@
     display:flex;
     justify-content:space-around;
     border:dotted red;
+    margin:10px;
 }
+
+
+
     
 .top{
     background-color:yellow;
     border:solid black 6px;
+    margin:10px;
 }
  p{
      font-size:30px;
 }
+.tri{color:magenta;}
 .two{
     font-size:50px;
     display:flex;
     justify-content:center;
 }
-.plan{
+.plan{color:orange;
+    font-size:30px;}
+.too{font-size:50px;
     display:flex;
     justify-content:center;
-    font-size:30px;}
+}
+.vote button{
+    width:400px;
+    height:80px;
+    font-size:40px;
+    border-radius:5px;
+    border:solid purple;
+    background:black;
+    color:white;
+    display:flex;
+    justify-content:center;
+    }
+    .tittle{
+        font-size:50px;
+        display:flex;
+        justify-content:center;
+        color:blue;}
+        .tittl{       
+            font-size:30px;
+        display:flex;
+        justify-content:center;
+        color:blue;}
